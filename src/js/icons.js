@@ -8,7 +8,7 @@ angular.module('xeditable').factory('editableIcons', function() {
 
   var icons = {
     //Icon-set to use, defaults to bootstrap icons
-    default: {
+    defaultt: {
       'bs2': {
         ok: 'icon-ok icon-white',
         cancel: 'icon-remove'
